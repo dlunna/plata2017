@@ -31,7 +31,7 @@ $menuHOS = "HOSPEDAJE";
 $quees = "OBJETIVO PRINCIPAL";
 $quees_parrafo1 = "<p>La Universidad Politécnica de Pachuca (UPPachuca) tiene como objetivo principal, el brindar a la cominidad estudiantil
 y a toda la ciudadania, de un espacio donde se desarrollen encuentros deportivos con un alto nivel.</p>
-<p>El Polideportivo Plata, es un espacio deportivo que desde hace cuatro años, abre sus puertas a niños 
+<p>El Polideportivo Plata, es un espacio deportivo que desde hace cuatro años, abre sus puertas a niños
 y niñas de entre 6 y 16 años, en el marco de los Cursos de Verano, que hacen encausar a los infantes a la recreación,
 esparcimiento, así como de la practica de las diferentes ramas de deportivas, en el periodo de receso escolar de verano.</p>
 <p>Las actividades se desarrollan dentro de un horario de 8:00 a las 22:00 horas, teniendo un calendario de actividades
@@ -43,14 +43,14 @@ $objetivo_texto = "<p>Difundir el espacio deportivo de alto nivel, teniendo como
  la sana recreacion de la ciudadania y el mejoramento personal.</p>";
 
 $dirijidoa = "Dirigido a";
-$dirijidoa_texto = "<p>Las instalaciones estan dirijidas a toda la comunidad estudiantil, asi como a las ciudadania 
+$dirijidoa_texto = "<p>Las instalaciones estan dirijidas a toda la comunidad estudiantil, asi como a las ciudadania
 en general que estén interesados en desarrollar la practica deportiva.</p>";
 
 $antecedentes = "Antecedentes";
 $antecedentes_texto = "<h3>Fecha: 8 de Agosto 2016</h3>
 <p>La Universidad Politécnica de Pachuca, recibe por parte de la INIFE, órgano constructor para la educación, las
- instalaciones con una inversión de 48 millones de persos, que estan distribuidas en una área de 7 hectarias, donde 
-se encuentran canchas de basquetball, tenis y futbol soccer y futbol 7, asi como la pista de tartán,  gimnasio, vestidores, 
+ instalaciones con una inversión de 48 millones de persos, que estan distribuidas en una área de 7 hectarias, donde
+se encuentran canchas de basquetball, tenis y futbol soccer y futbol 7, asi como la pista de tartán,  gimnasio, vestidores,
 baños, y la primera alberca olímpica del Estado. </p>";
 
 $liga_ver_anterior = "Acceder a la versión 2015 del SIMCI";
@@ -59,15 +59,15 @@ $liga_ver_anterior = "Acceder a la versión 2015 del SIMCI";
 //---------------------------------------------------------
 
 $ejes_tematicos = "PRINCIPALES DEPORTES";
-$ejes_tematicos_texto = "<p>El POLIDEPORTIVO PLATA, cuenta como lineas deportivas, el acondicionamiento fisico, 
+$ejes_tematicos_texto = "<p>El POLIDEPORTIVO PLATA, cuenta como lineas deportivas, el acondicionamiento fisico,
 deportes de conjunto y los deportes de alto nivel.</p>";
 
-$eje1 = "<h2>ACONDICIONAMIETO FISCO</h2>
-<p>Los Deportes de Acondicionamiento Fisico estan dirijidos al desarrollo de las cualidades fisicas mediante el 
+$eje1 = "<h2>ACONDICIONAMIENTO FISICO</h2>
+<p>Los Deportes de Acondicionamiento Fisico estan dirigidos al desarrollo de las cualidades fisicas mediante el
 ejercicio, para obtener un estado general de saludable, realizandose en un nivel de bajo, medio y alto impacto,como es: Yoga, Cross Trining y aparatos de pesas.</p> <br />";
 
 $eje2 = "<h2>DEPORTES DE CONJUNTO</h2>
-<p>Los Deportes de Conjunto estan dirijidos a desarrollar las habilidades en equipo, mostrando disciplina, constancia, compañerismo y una vision de competitividad dentro del nivel medio y alto rendimiento.</p>
+<p>Los Deportes de Conjunto estan dirigidos a desarrollar las habilidades en equipo, mostrando disciplina, constancia, compañerismo y una vision de competitividad dentro del nivel medio y alto rendimiento.</p>
 <br />";
 
 $eje3 = "<h2>DEPORTES DE ALTO NIVEL</h2>
